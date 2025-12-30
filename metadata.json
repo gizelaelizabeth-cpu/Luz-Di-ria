@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Luz Diária - Por Gizela Imperial",
+  "description": "Um aplicativo espiritual completo com devocionais diários, versículos, áudio narrado e planos de leitura para fortalecer sua fé.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
